@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+#naam {font-size: large}; {background-color: green}; 
+#hobbys {color: blue}; {background-color: red}; 
+#series {color: orange}; {background-color: blue}; 
+#all {width: auto}; 
+#form-example {border-radius: 30px;}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
